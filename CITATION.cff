@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Reducing Annotation Cost in Building Occupancy Estimation Through Partial Label Learning and Decision-Tree Candidate Generation"
+authors:
+  - family-names: Efrit
+    given-names: Mohamed Youssef
+    orcid: "https://orcid.org/0009-0008-0068-6088"
+    affiliation: "Concordia University"
+  - family-names: Amayri
+    given-names: Manar
+    affiliation: "Concordia University"
+  - family-names: Bouguila
+    given-names: Nizar
+    affiliation: "Concordia University"
+license: MIT

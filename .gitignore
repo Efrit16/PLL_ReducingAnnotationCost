@@ -1,0 +1,7 @@
+# Raw data are not redistributed (see README)
+data/*.csv
+# Run outputs
+results_*/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
